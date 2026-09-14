@@ -1,6 +1,6 @@
 # Bubu-Store
 
-** Loja Virtual**
+** Loja Virtual **
 
 Projeto de uma loja virtual desenvolvido com o objetivo de colocar em prática e aprimorar meus conhecimentos em desenvolvimento web.
 
